@@ -1,4 +1,4 @@
-import GetAllProfileList from "../profiles/GetAllProfiles";
+import GetAllProfileList from "../Profiles/GetAllProfiles";
 import BackToHomeButton from "../buttons/BackToHomeButton"; 
 import { StyledGetAllProfilesCard } from "../cards/StyledCard.styles";
 
