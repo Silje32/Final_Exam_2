@@ -1,7 +1,7 @@
 import Emoji from "../emoji/Emoji";
 import LikeButton from "../buttons/LikeButton";
 import BackButton from "../buttons/BackToHomeButton";
-import SingleProfile from "../singleProfile/SingleProfiles";
+import SingleProfile from "../SingleProfile/SingleProfiles";
 import { StyledSingleProfileCard, StyledButtonCard } from "./StyledCard.styles";
 
 
