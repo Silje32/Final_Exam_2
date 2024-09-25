@@ -19,7 +19,7 @@ Styled Components
 
 #### Getting Started
 01. Clone the repo
-git clone git@github.com:Silje32/Final_Project_Exam_2.git
+git clone https://github.com/Silje32/Final_Exam_2.git
 
 02. Install the dependencies
 In the terminal in Visual Studio Code write; "npm i" or "npm install".
