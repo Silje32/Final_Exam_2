@@ -1,6 +1,6 @@
 import ViewAllProfilesButton from "../buttons/ViewAllProfilesButton";
 import PostList from "../posts/PostList";
-import ProfileFilter from "../searchbar/ProfileFilter";
+import ProfilesFilter from "../searchbar/ProfilesFilter";
 import { StyledHomeCard, StyledFlex } from "./StyledCard.styles";
 
 
@@ -11,7 +11,7 @@ function HomeCard() {
          <StyledHomeCard>
           <StyledFlex>
            <ViewAllProfilesButton />
-              <ProfileFilter />
+              <ProfilesFilter />
               <PostList />        
           </StyledFlex>   
          </StyledHomeCard>
