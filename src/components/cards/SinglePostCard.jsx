@@ -1,7 +1,7 @@
 import Emoji from "../emoji/Emoji";
 import LikeButton from "../buttons/LikeButton";
 import BackToProfileButton from "../buttons/BackToProfileButton";
-import SinglePostId from "../singlePost/SinglePostsId";
+import SinglePostId from "../SinglePost/SinglePostsId";
 import { StyledSinglePostCard, StyledButtonCard } from "./StyledCard.styles";
 
 
