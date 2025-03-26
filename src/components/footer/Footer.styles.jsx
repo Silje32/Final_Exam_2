@@ -14,6 +14,8 @@ export const StyledFooter = styled.footer`
   flex-shrink: 0;
   text-align: right;
   max-width: 3000px;
+  position: sticky;
+  bottom: 0;
 `;
 
 
